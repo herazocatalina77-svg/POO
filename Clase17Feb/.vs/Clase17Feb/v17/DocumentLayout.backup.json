@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|c:\\users\\acer\\desktop\\poo\\clase17feb\\clase17feb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|solutionrelative:clase17feb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\Clase17Feb\\Program.cs",
+              "RelativeDocumentMoniker": "Clase17Feb\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\Clase17Feb\\Program.cs",
+              "RelativeToolTip": "Clase17Feb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:05:44.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
