@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|c:\\users\\acer\\desktop\\poo\\clase17feb\\clase17feb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|solutionrelative:clase17feb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|c:\\users\\acer\\desktop\\poo\\clase17feb\\clase17feb\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|solutionrelative:clase17feb\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|c:\\users\\acer\\desktop\\poo\\clase17feb\\clase17feb\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49733D2-28CE-49F7-AC69-F02A11BD6F63}|Clase17Feb\\Clase17Feb.csproj|solutionrelative:clase17feb\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\Clase17Feb\\Gato.cs",
+              "RelativeDocumentMoniker": "Clase17Feb\\Gato.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\Clase17Feb\\Gato.cs",
+              "RelativeToolTip": "Clase17Feb\\Gato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:51:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\Clase17Feb\\Perro.cs",
+              "RelativeDocumentMoniker": "Clase17Feb\\Perro.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\Clase17Feb\\Perro.cs",
+              "RelativeToolTip": "Clase17Feb\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:37:02.01Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Clase17Feb\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Clase17Feb\\Clase17Feb\\Program.cs",
               "RelativeToolTip": "Clase17Feb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T23:05:44.026Z",
               "EditorCaption": ""
