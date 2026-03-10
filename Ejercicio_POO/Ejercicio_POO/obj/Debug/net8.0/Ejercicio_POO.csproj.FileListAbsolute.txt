@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.exe
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.deps.json
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.runtimeconfig.json
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.dll
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\bin\Debug\net8.0\Ejercicio_POO.pdb
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.AssemblyInfo.cs
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.sourcelink.json
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.dll
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\refint\Ejercicio_POO.dll
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.pdb
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\Ejercicio_POO.genruntimeconfig.cache
+C:\Users\Acer\Desktop\POO\Ejercicio_POO\Ejercicio_POO\obj\Debug\net8.0\ref\Ejercicio_POO.dll
