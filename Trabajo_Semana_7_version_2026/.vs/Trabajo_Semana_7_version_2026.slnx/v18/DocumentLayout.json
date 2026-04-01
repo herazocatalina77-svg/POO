@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_semana_7_version_2026\\trabajo_semana_7_version_2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|solutionrelative:trabajo_semana_7_version_2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_semana_7_version_2026\\trabajo_semana_7_version_2026\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|solutionrelative:trabajo_semana_7_version_2026\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_semana_7_version_2026\\trabajo_semana_7_version_2026\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|solutionrelative:trabajo_semana_7_version_2026\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_semana_7_version_2026\\trabajo_semana_7_version_2026\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|solutionrelative:trabajo_semana_7_version_2026\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_semana_7_version_2026\\trabajo_semana_7_version_2026\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|solutionrelative:trabajo_semana_7_version_2026\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_semana_7_version_2026\\trabajo_semana_7_version_2026\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166B66D-1EAE-88BD-5733-EEEDCEA4C312}|Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026.csproj|solutionrelative:trabajo_semana_7_version_2026\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Cliente.cs",
+              "RelativeDocumentMoniker": "Trabajo_Semana_7_version_2026\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Cliente.cs",
+              "RelativeToolTip": "Trabajo_Semana_7_version_2026\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T23:41:37.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Empleado.cs",
+              "RelativeDocumentMoniker": "Trabajo_Semana_7_version_2026\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Empleado.cs",
+              "RelativeToolTip": "Trabajo_Semana_7_version_2026\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T23:41:22.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Pedido.cs",
+              "RelativeDocumentMoniker": "Trabajo_Semana_7_version_2026\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Pedido.cs",
+              "RelativeToolTip": "Trabajo_Semana_7_version_2026\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T23:41:00.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Producto.cs",
+              "RelativeDocumentMoniker": "Trabajo_Semana_7_version_2026\\Producto.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Producto.cs",
+              "RelativeToolTip": "Trabajo_Semana_7_version_2026\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T23:40:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Usuario.cs",
+              "RelativeDocumentMoniker": "Trabajo_Semana_7_version_2026\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Usuario.cs",
+              "RelativeToolTip": "Trabajo_Semana_7_version_2026\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T23:40:32.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Program.cs",
+              "RelativeDocumentMoniker": "Trabajo_Semana_7_version_2026\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_Semana_7_version_2026\\Trabajo_Semana_7_version_2026\\Program.cs",
+              "RelativeToolTip": "Trabajo_Semana_7_version_2026\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T22:57:05.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

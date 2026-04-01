@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Trabajo_Semana_7
 {
@@ -17,13 +19,28 @@ namespace Trabajo_Semana_7
 
         public static void ConfirmarPedido()
         {
+            Console.Clear();
             confirmado = true;
             Console.WriteLine("CONFIRMADO YAY");
+            Console.WriteLine("Presione cualquier tecla para continuar");
+            Console.ReadKey();
             //presione cualquier letra para continuar
         }
-        public static void AgregarProducto(string producto)
+        public static void IngresarProducto(string nombre, string marca, string tipo, List<string> infoProducto)
         {
-
+            Console.Clear();
+            Console.WriteLine("Ingrese el nombre de su pedido");
+            nombre = Console.ReadLine() ?? "valor por defecto";
+            infoProducto.Add(nombre);
+            Console.WriteLine("Ingrese la marca de su pedido");
+            marca = Console.ReadLine() ?? "valor por defecto";
+            infoProducto.Add(marca);
+            Console.WriteLine("Ingrese el tipo de pedido");
+            tipo = Console.ReadLine() ?? "valor por defecto";
+            infoProducto.Add(tipo);
+            Console.Clear();
+            Console.WriteLine("Producto ingresado, presione cualquier tecla para continuar");
+            Console.ReadKey();
         }
     }
 }

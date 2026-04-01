@@ -8,18 +8,16 @@ namespace Trabajo_Semana_7
 {
     internal class Usuario
     {
-        public static string nombre;
-        public static string email;
-        public static string sexo;
-        public static string direccion;
-        public static string ciudad;
+        public static string nombre = "";
+        public static string email = "";
+        public static string sexo = "";
+        public static string direccion = "";
+        public static string ciudad = "";
         public static int edad;
         public static int id;
-        //Agregado autonómamente :)
-        public static List <string> info1;
-        public static List<int> info2;
+        public static List <string> info1 = new List<string>();
+        public static List<int> info2 = new List<int>();
         //Métodos
-        //Agregado autonómamente :)
         public static void IngresarInfoUsuario()
         {
             Console.Clear();
@@ -43,6 +41,9 @@ namespace Trabajo_Semana_7
             Console.WriteLine("Ingrese su id");
             id = Int32.Parse(Console.ReadLine());
             info2.Add (id);
+            Console.Clear();
+            Console.WriteLine("Usuario ingresado, presione cualquier tecla para continuar");
+            Console.ReadKey();
         }
     }
 }

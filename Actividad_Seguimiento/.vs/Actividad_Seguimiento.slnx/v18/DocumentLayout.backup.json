@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\cuerpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\cuerpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\cabeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\cabeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\conductorautobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\conductorautobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\petroleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\petroleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|c:\\users\\acer\\desktop\\poo\\actividad_seguimiento\\actividad_seguimiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6FFD36-DB71-41C5-B529-D3DDBB651ECA}|Actividad_Seguimiento\\Actividad_Seguimiento.csproj|solutionrelative:actividad_seguimiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuerpo.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Cuerpo.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Cuerpo.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Cuerpo.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Cuerpo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:43:27.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cabeza.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Cabeza.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Cabeza.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Cabeza.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Cabeza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:43:02.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Humano.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Humano.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Humano.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Humano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:40:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Conductor.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Conductor.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Conductor.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:36:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConductorAutobus.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\ConductorAutobus.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\ConductorAutobus.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\ConductorAutobus.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\ConductorAutobus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:37:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Taxi.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Taxi.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Taxi.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Taxi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:35:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autobus.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Autobus.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Autobus.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Autobus.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Autobus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:35:12.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Petroleo.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Petroleo.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Petroleo.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Petroleo.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Petroleo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:52:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Coche.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Coche.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Coche.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Coche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:45:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Barco.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Barco.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Barco.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Barco.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Barco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:37:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\IVehiculo.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\IVehiculo.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\IVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:36:06.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad_Seguimiento\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Actividad_Seguimiento\\Actividad_Seguimiento\\Program.cs",
+              "RelativeToolTip": "Actividad_Seguimiento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:30:27.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

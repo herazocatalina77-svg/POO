@@ -12,12 +12,6 @@ namespace Trabajo_Semana_7
         public static string marca;
         public static double precio;
         public static string tipo;
-        public List<string> infoProducto;
-
-        //Métodos
-        public static void IngresarProducto()
-        {
-
-        }
+        static public List<string> infoProducto = new List<string>();
     }
 }
