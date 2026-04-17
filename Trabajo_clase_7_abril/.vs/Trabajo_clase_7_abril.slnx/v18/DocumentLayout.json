@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\iclublectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\iclublectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\iclublectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\iclublectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E55037CF-3D1D-4CC0-8CB7-F852C3DA5F80}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|c:\\users\\acer\\desktop\\poo\\trabajo_clase_7_abril\\trabajo_clase_7_abril\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC2680-8384-C7E4-5CFB-98431B1FC918}|Trabajo_clase_7_abril\\Trabajo_clase_7_abril.csproj|solutionrelative:trabajo_clase_7_abril\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\Trabajo_clase_7_abril\\Usuario.cs",
               "RelativeDocumentMoniker": "Trabajo_clase_7_abril\\Usuario.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\Trabajo_clase_7_abril\\Usuario.cs",
               "RelativeToolTip": "Trabajo_clase_7_abril\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T16:50:39.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\Trabajo_clase_7_abril\\Libro.cs",
               "RelativeDocumentMoniker": "Trabajo_clase_7_abril\\Libro.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\Trabajo_clase_7_abril\\Libro.cs",
               "RelativeToolTip": "Trabajo_clase_7_abril\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T16:50:27.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IClubLectura.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\Trabajo_clase_7_abril\\IClubLectura.cs",
               "RelativeDocumentMoniker": "Trabajo_clase_7_abril\\IClubLectura.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\Trabajo_clase_7_abril\\Program.cs",
               "RelativeDocumentMoniker": "Trabajo_clase_7_abril\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Trabajo_clase_7_abril\\Trabajo_clase_7_abril\\Program.cs",
               "RelativeToolTip": "Trabajo_clase_7_abril\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAANUAAAAAAAAAAAAIwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T23:39:03.024Z",
               "EditorCaption": ""
