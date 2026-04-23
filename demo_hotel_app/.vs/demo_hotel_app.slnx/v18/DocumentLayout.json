@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|c:\\users\\acer\\desktop\\poo\\demo_hotel_app\\demo_hotel_app\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|solutionrelative:demo_hotel_app\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|c:\\users\\acer\\desktop\\poo\\demo_hotel_app\\demo_hotel_app\\recepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|solutionrelative:demo_hotel_app\\recepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|c:\\users\\acer\\desktop\\poo\\demo_hotel_app\\demo_hotel_app\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|solutionrelative:demo_hotel_app\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|c:\\users\\acer\\desktop\\poo\\demo_hotel_app\\demo_hotel_app\\habitaci\u00F3nmatrimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|solutionrelative:demo_hotel_app\\habitaci\u00F3nmatrimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|c:\\users\\acer\\desktop\\poo\\demo_hotel_app\\demo_hotel_app\\habitacionsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|solutionrelative:demo_hotel_app\\habitacionsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|c:\\users\\acer\\desktop\\poo\\demo_hotel_app\\demo_hotel_app\\habitaciondoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|solutionrelative:demo_hotel_app\\habitaciondoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|c:\\users\\acer\\desktop\\poo\\demo_hotel_app\\demo_hotel_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FBC797-FE04-41B2-BB67-035B2DE1AD0A}|demo_hotel_app\\demo_hotel_app.csproj|solutionrelative:demo_hotel_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recepcionista.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Recepcionista.cs",
+              "RelativeDocumentMoniker": "demo_hotel_app\\Recepcionista.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Recepcionista.cs",
+              "RelativeToolTip": "demo_hotel_app\\Recepcionista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:20:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Cliente.cs",
+              "RelativeDocumentMoniker": "demo_hotel_app\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Cliente.cs",
+              "RelativeToolTip": "demo_hotel_app\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:20:37.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HabitacionDoble.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\HabitacionDoble.cs",
+              "RelativeDocumentMoniker": "demo_hotel_app\\HabitacionDoble.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\HabitacionDoble.cs",
+              "RelativeToolTip": "demo_hotel_app\\HabitacionDoble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:19:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HabitacionSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\HabitacionSimple.cs",
+              "RelativeDocumentMoniker": "demo_hotel_app\\HabitacionSimple.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\HabitacionSimple.cs",
+              "RelativeToolTip": "demo_hotel_app\\HabitacionSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:19:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habitaci\u00F3nMatrimonial.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Habitaci\u00F3nMatrimonial.cs",
+              "RelativeDocumentMoniker": "demo_hotel_app\\Habitaci\u00F3nMatrimonial.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Habitaci\u00F3nMatrimonial.cs",
+              "RelativeToolTip": "demo_hotel_app\\Habitaci\u00F3nMatrimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:18:47.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Habitacion.cs",
+              "RelativeDocumentMoniker": "demo_hotel_app\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Habitacion.cs",
+              "RelativeToolTip": "demo_hotel_app\\Habitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:18:30.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Program.cs",
+              "RelativeDocumentMoniker": "demo_hotel_app\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\demo_hotel_app\\demo_hotel_app\\Program.cs",
+              "RelativeToolTip": "demo_hotel_app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T00:05:03.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
