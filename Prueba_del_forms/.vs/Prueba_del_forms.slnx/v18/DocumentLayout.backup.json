@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\POO\\Prueba_del_forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18FD17-99E9-402C-BCB2-4D0E6E867F1F}|Prueba_del_forms\\Prueba_del_forms.csproj|c:\\users\\acer\\desktop\\poo\\prueba_del_forms\\prueba_del_forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18FD17-99E9-402C-BCB2-4D0E6E867F1F}|Prueba_del_forms\\Prueba_del_forms.csproj|solutionrelative:prueba_del_forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\POO\\Prueba_del_forms\\Prueba_del_forms\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba_del_forms\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\POO\\Prueba_del_forms\\Prueba_del_forms\\Program.cs",
+              "RelativeToolTip": "Prueba_del_forms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T19:51:54.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

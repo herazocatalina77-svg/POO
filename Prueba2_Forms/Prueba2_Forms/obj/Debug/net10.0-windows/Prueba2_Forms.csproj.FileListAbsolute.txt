@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\bin\Debug\net10.0-windows\Prueba2_Forms.exe
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\bin\Debug\net10.0-windows\Prueba2_Forms.deps.json
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\bin\Debug\net10.0-windows\Prueba2_Forms.runtimeconfig.json
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\bin\Debug\net10.0-windows\Prueba2_Forms.dll
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\bin\Debug\net10.0-windows\Prueba2_Forms.pdb
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.Form1.resources
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.AssemblyInfo.cs
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.sourcelink.json
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.dll
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\refint\Prueba2_Forms.dll
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.pdb
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\Prueba2_Forms.genruntimeconfig.cache
+C:\Users\Acer\Desktop\POO\Prueba2_Forms\Prueba2_Forms\obj\Debug\net10.0-windows\ref\Prueba2_Forms.dll
